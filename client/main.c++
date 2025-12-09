@@ -1,7 +1,7 @@
 // Includes and Definitions
-#define BLYNK_TEMPLATE_ID "TMPL2OYlTI2nq"
-#define BLYNK_TEMPLATE_NAME "Transportation Band"
-#define BLYNK_AUTH_TOKEN "QrByEI9WtsuTwJ3aywtoN99UYoFefZWT"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -35,8 +35,8 @@ bool pausaSistema = false;
 bool modoRapido = false;
 
 // WiFi credentials
-char ssid[] = "iPhone";
-char pass[] = "12345678";
+char ssid[] = "";
+char pass[] = "";
 
 // LED Virtual Pins
 #define LEDM1 V1
