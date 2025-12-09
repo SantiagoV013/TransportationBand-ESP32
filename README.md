@@ -127,3 +127,7 @@ Includes **automatic mode**, **calibration mode**, and **fast mode**, all contro
    ```cpp
    char ssid[] = "YOUR_WIFI";
    char pass[] = "YOUR_PASSWORD";
+
+5.	Configure your Blynk credentials:
+6.	Upload the code to the ESP32
+7.	Open the Blynk App and configure the widgets
